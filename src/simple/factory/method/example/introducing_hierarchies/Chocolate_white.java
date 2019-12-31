@@ -4,6 +4,7 @@ package simple.factory.method.example.introducing_hierarchies;
 import java.util.ArrayList;
 
 /**
+ *
  * @author bethan
  */
 public class Chocolate_white extends Candy {
