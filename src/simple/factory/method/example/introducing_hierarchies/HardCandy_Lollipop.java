@@ -1,9 +1,11 @@
+
 package simple.factory.method.example.introducing_hierarchies;
 
 import java.util.ArrayList;
 
 /**
- * @author bethan
+ *
+ * @author betha
  */
 public class HardCandy_Lollipop extends Candy {
 
